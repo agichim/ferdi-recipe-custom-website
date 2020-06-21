@@ -1,5 +1,9 @@
 # Unofficial Ferdi recipe for Custom Websites
 
-In the latest version of Ferdi icon images for Cutomer Website are not displayed.
+**In the latest versions of Ferdi icon images for Cutom Website are not displayed.**
 
-I've followed Jake Steam's guide 
+I've followed @jakesteam's [guide](https://blog.jakelee.co.uk/super-simple-guide-to-adding-a-new-ferdi-service-recipe/) on how to create a Ferdi recipe and this way the issue with the icon not showing was solved. 
+
+### Release notes:
+
+1.0.0: First release
