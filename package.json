@@ -1,0 +1,14 @@
+{
+    "id": "bitwarden",
+    "name": "BitWarden",
+    "version": "1.0.0",
+    "description": "BitWarden",
+    "main": "index.js",
+    "author": "Alexandru G. Ichim <alexgeorge.ichim@gmail.com>",
+    "license": "MIT",
+    "config": {
+      "serviceURL": "https://vault.bitwarden.com/#/",
+      "hasDirectMessages": false,
+      "hasNotificationSound": false
+    }
+  }
